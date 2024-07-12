@@ -20,3 +20,13 @@ Aqui nos explicaron que podemos guardar varias versiones de nuestro proyecto par
 
 5. Github y Archivo Readme.
 Nos explicaron que podemos utilizar Githup para llevar un control de versiones para guardar y compartir los proyectos o codigo que creamos, ademas vimos el archivo Readme que sirve para crear como un indice de los proyectos y programas o codigo que guardamos en Github.
+
+6. Codificación.
+Nos explicaron lo que son los tipos de datos con ejemplos y estos son: Entero, Long, Float, Double, Alfanumérico, Booleano.
+
+7. Manejo de Errores.
+Corregimos errores que se hicimos en nuestos programas en las seciones.
+
+8. Activity.
+Nos ayudaron a entender para que sirve este archivo en el editor de texto Android Studio.
+
