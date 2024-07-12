@@ -42,7 +42,9 @@ Nos ayudaron a entender para que sirve este archivo en el editor de texto Androi
 
 ![Captura desde 2024-07-12 13-06-16](https://github.com/user-attachments/assets/92246ed9-201e-4f7b-bc00-12a6bd849df0)
 
+[Ejercisio1](practica001)
 
+[Ejercisio2](imcJueves)
 
-
+[Ejercicio3](diaSemana)
 
