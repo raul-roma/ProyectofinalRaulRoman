@@ -30,8 +30,17 @@ Corregimos errores que se hicimos en nuestos programas en las seciones.
 8. Activity.
 Nos ayudaron a entender para que sirve este archivo en el editor de texto Android Studio.
 
+![Captura desde 2024-07-12 13-30-10](https://github.com/user-attachments/assets/a504bcff-07e8-4992-a96d-d90f1efa5b9c)
+
+![Captura desde 2024-07-12 13-30-35](https://github.com/user-attachments/assets/499e2b12-ac72-40a1-b530-006f4d61b40d)
+
+![Captura desde 2024-07-12 13-30-47](https://github.com/user-attachments/assets/92a27308-7631-4407-80fe-f3684fbf6637)
 
 
+![Captura desde 2024-07-12 13-22-20](https://github.com/user-attachments/assets/e07f708d-a50a-4699-aaf4-675bb589819f)
+
+
+![Captura desde 2024-07-12 13-06-16](https://github.com/user-attachments/assets/92246ed9-201e-4f7b-bc00-12a6bd849df0)
 
 
 
