@@ -48,4 +48,4 @@ Nos ayudaron a entender para que sirve este archivo en el editor de texto Androi
 
 [Ejercicio3](diaSemana)
 
-###Me disculpo trate de configurar todos los programas en mi PC y realizar todos los programas que nos mostraron en la las seciones, mi equipo no me ayudo mucho.
+**Me disculpo trate de configurar todos los programas (Android studio, Emulador MEmu y Github)en mi PC y realizar todos los programas que nos mostraron y enseñaron a realizar en las seciones, mi equipo no me ayudo mucho.**
