@@ -30,3 +30,9 @@ Corregimos errores que se hicimos en nuestos programas en las seciones.
 8. Activity.
 Nos ayudaron a entender para que sirve este archivo en el editor de texto Android Studio.
 
+
+
+
+
+
+
